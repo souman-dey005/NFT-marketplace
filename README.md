@@ -24,5 +24,6 @@ The vision of this project is to serve as a foundational template for developers
 - 📊 Add event logs for front-end display and analytics
 - 🔌 Cross-chain NFT marketplace support (Polygon, Base, etc.)
 
-## Contract Details : 0x0ca08cbf7d8C0Ae2eb01A06A9c054ed52C4ec69D
-<img width="1912" height="817" alt="image" src="https://github.com/user-attachments/assets/88cf29f0-610d-4cb7-a737-4a70f9c3816f" />
+## Contract Details : 0x0ca08cbf7d8C0Ae2eb01A06A9c054ed52C4ec69
+<img width="1916" height="883" alt="Screenshot 2025-07-28 142554" src="https://github.com/user-attachments/assets/fbd5faf5-576a-4f65-9de9-3d2b80fe824e" />
+
